@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+        <style>body{background-color:black;margin:0px;padding:0px;
+        }
+        h1{color:white;text-align:center;}
+        h5{color:purple;text-align:right;}
+        </style>
+    </head>
+    <body>
+        <img src="https://www.westend61.de/en/images/layout/1016255?name=MINF04102" alt="coffee cups" width="380px" height="310px">
+     <h6 style="text-align:center;color:purple;"><i>Planning your....</i></h6>
+     <h1>THERALPY WEBSITE.</h1>
+     <h5>A WORKBOOK FOR PRACTITIONERS.</h5>
+     <p style="text-align:center;color:white;"><span style="font-weight:Bold;font-size:22px;color:purple"><i>Hi there!</i></span><i>This workbook was designed to guide you through the planning process for your psycotherapy<br>
+      practice website while identifying the key components<br>and functionality that will be integrated.</i></p>
+     <p style="text-align:center;color:white;"><i>Setting aside some time aside to thoroughly plan your website will help you to establish measurable goals,<br>determine an ideal look and feel,outline your contents,<br>identify features requirements,and better<br> ensure you're happy with the final products.</i></p>
+     <footer style="text-align:center;color:purple;">
+     <img src="https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Decorative-Elements-PNG/Leaf_PNG_Clipart.png?m=1558487733" alt="leaf PNGimg" width="25px" height="30px align="right"><i>day is new <b>Creative</b></i><br>WEB DESIGN+Build. </footer>
+    </body>
+</html>
